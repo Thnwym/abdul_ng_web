@@ -1,0 +1,147 @@
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../../image/22709173_Golden_curve_line_on_red_luxury_background_with_glitter_light_effects_decoration_\ 1.png');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+
+.form-sign-in {
+    position: fixed;
+    margin: 65px;
+    width: 90vw;
+    height: 80vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    border-radius: 10px;
+}
+
+.form-sign-in-logo {
+    position: fixed;
+    margin: 30px;
+    left: 120px;
+    width: 40vw;
+    height: 70vh;
+    background-image: url('../../image/imgcall\ 1.png');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    text-align: center;
+}
+
+.logo-abdul {
+    position: fixed;
+    margin: 120px;
+    left: 200px;
+    width: 12vw;
+    height: 12vw;
+    background-image: url('../../image/c47687b7_bead_40d1_878b_447dad9c15f9\ 1.png');
+    background-size: cover;
+}
+
+p {
+    position: fixed;
+    margin: 120px;
+    left: 120px;
+    top: 270px;
+    font-size: 30px;
+    color: #741D1D;
+    text-shadow: 1px 3px 2px #CCCCCC;
+}
+
+h5 {
+    position: fixed;
+    margin: 120px;
+    left: 215px;
+    top: 320px;
+    font-size: 20px;
+    color: #741D1D;
+}
+
+.form-sign-in-input {
+    position: fixed;
+    left: 750px;
+    margin: 30px;
+    width: 30vw;
+    height: 70vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #741D1D;
+}
+
+h6 {
+    color: #7D7D7D;
+}
+
+.input-username {
+    width: 70%;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+
+.input-password {
+    margin-bottom: 30px;
+    width: 70%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+
+.mat-checkbox {
+    left: -75px;
+    color: #741D1D;
+    margin-right: 12px;
+}
+
+b {
+    margin-left: 10px;
+    color: #741D1D;
+    font-size: 12px;
+}
+
+.forget-password {
+    position: fixed;
+    color: #741D1D;
+    font-size: 12px;
+    font-weight: bold;
+    top: 361px;
+    right: 200px;
+}
+
+.bts-sign-in button {
+    margin-top: 20px;
+    background-color: #8C1E1E;
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    border: 5px;
+    font-size: 20px;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.bts-sign-in button:hover {
+    background-color: #741D1D;
+}
+
+.bts-sign-up {
+    color: #741D1D;
+    margin-top: 20px;
+    font-size: 12px;
+}
+

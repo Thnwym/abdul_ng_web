@@ -1,0 +1,93 @@
+.form-show-all {
+    margin-top: 70px;
+    margin-left: 120px;
+    position: fixed;
+    width: 1170px;
+    height: 170px;
+    border-radius: 5px;
+}
+.mat-grid-tile {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px #741D1D;
+    color: #741D1D;
+    text-align: center;
+}
+.icon-image {
+    position: absolute;
+    margin-right: 150px;
+    width: 60px;
+    height: 60px;
+    background-color: #d3cea4;
+    border-radius: 50px;
+}
+.show-detail {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+h5 {
+    margin-top: 5px;
+    font-weight: normal;
+    color: #e60202;
+}
+.Call-statistics {
+    margin-top: 280px;
+    margin-left: 120px;
+    position: fixed;
+    background-color: white;
+    box-shadow: 5px 5px 2px #741D1D;
+    width: 575px;
+    height: 340px;
+    border-radius: 5px;
+}
+.Report-statistics {
+    margin-top: 280px;
+    margin-left: 720px;
+    position: fixed;
+    background-color: white;
+    box-shadow: 5px 5px 2px #741D1D;
+    width: 275px;
+    height: 340px;
+    border-radius: 5px;
+}
+.Total-income-statistics {
+    margin-top: 280px;
+    margin-left: 1020px;
+    position: fixed;
+    background-color: white;
+    box-shadow: 5px 5px 2px #741D1D;
+    width: 270px;
+    height: 160px;
+    border-radius: 5px;
+}
+.Statistics-for-closing-all-cases {
+    margin-top: 460px;
+    margin-left: 1020px;
+    position: fixed;
+    background-color: white;
+    box-shadow: 5px 5px 2px #741D1D;
+    width: 270px;
+    height: 160px;
+    border-radius: 5px;
+}
+.show-detail-chart {
+    font-weight: normal;
+    color: #741D1D;
+    margin: 10px;
+}
+.detail-report {
+    width: 235px;
+    height: 50px;
+    background-color: #cf40a0;
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+}
+.polar-chart {
+    width: 200px;
+    height: 200px;
+    background-color: #e60202;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}

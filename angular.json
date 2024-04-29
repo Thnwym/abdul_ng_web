@@ -32,7 +32,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
+            "scripts": ["node_modules/apexcharts/dist/apexcharts.min.js"],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -102,5 +102,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "792d3e68-91e0-4de8-9a38-2b4102562e88"
   }
 }
